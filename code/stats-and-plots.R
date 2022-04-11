@@ -54,7 +54,7 @@ colnames(demo_table) <- c("datapoint", "content")
 demo_table[1,1] <- "age"
 demo_table[2,1] <- "sex"
 
-meanAge <- mean(df$age)
+meanAge <- round(mean(df$age),2)
 sdAge <- round(sd(df$age),2)
 minAge <- min(df$age)
 maxAge <- max(df$age)
@@ -63,8 +63,8 @@ demo_table[1,2] <- ageContent
 
 noMale <- sum(df$sex=="M")
 noFemale <- sum(df$sex=="F")
-percMale <- noMale/length(df$sex)*100
-percFemale <- noFemale/length(df$sex)*100
+percMale <- round(noMale/length(df$sex)*100,1)
+percFemale <- round(noFemale/length(df$sex)*100,1)
 sexContent <- paste(noMale, " M (", percMale, "%), ", noFemale, " F (", percFemale, "%)", sep="", collapse=NULL)
 demo_table[2,2] <- sexContent
 

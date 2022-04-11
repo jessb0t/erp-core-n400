@@ -53,7 +53,7 @@ In summary, the N400 is much more than a language-specific index of semantic pla
 ## Results
 
 <p align="center">
-<img src="https://github.com/jessb0t/erp-core-n400/blob/main/results/n400_demoTable_20220409.png" width="400">
+<img src="https://github.com/jessb0t/erp-core-n400/blob/main/results/n400_demoTable_20220411.png" width="400">
 </p>
 (Note: although participant 40 was not automatically rejected by the MADE pipeline, an unusually high number of epochs were rejected.  This participant was thus excluded from further analyses.)<br/>
 <br/>

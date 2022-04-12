@@ -117,7 +117,7 @@ Overall, this dataset demonstrates individual differences in the differential re
 
 12. R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [[URL](https://www.R-project.org/)]
 
-13. Robinson, D. et al. (2022). broom: Convert Statistical Objects into TIdy Tibbles. [[URL](https://broom.tidymodels.org/]
+13. Robinson, D. et al. (2022). broom: Convert Statistical Objects into TIdy Tibbles. [[URL](https://broom.tidymodels.org/)]
 
 14. Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. [[URL](https://ggplot2.tidyverse.org)]
 

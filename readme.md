@@ -103,7 +103,7 @@ Overall, this dataset demonstrates individual differences in the differential re
 
 5. Iannone R., Cheng J., Schloerke B. (2022). gt: Easily Create Presentation-Ready Display Tables. [[URL](https://gt.rstudio.com/)]
 
-6. Kappenman, E. S., Farrens, J. L., Zhang, W., Stewart, A. X., & Luck, S. J. (2021). ERP CORE: An open resource for human event-related potential research. NeuroImage, 225, 117465. [[DOI](Kappenman, E. S., Farrens, J. L., Zhang, W., Stewart, A. X., & Luck, S. J. (2021). ERP CORE: An open resource for human event-related potential research. NeuroImage, 225, 117465.)]
+6. Kappenman, E. S., Farrens, J. L., Zhang, W., Stewart, A. X., & Luck, S. J. (2021). ERP CORE: An open resource for human event-related potential research. NeuroImage, 225, 117465. [[DOI(Kappenman, E. S., Farrens, J. L., Zhang, W., Stewart, A. X., & Luck, S. J. (2021). ERP CORE: An open resource for human event-related potential research. NeuroImage, 225, 117465.)]
 
 7. Kutas, M., & Federmeier, K. D. (2011). Thirty Years and Counting: Finding Meaning in the N400 Component of the Event-Related Brain Potential (ERP). Annual Review of Psychology, 62(1), 621–647. [[DOI](https://www.annualreviews.org/doi/10.1146/annurev.psych.093008.131123)]
 
